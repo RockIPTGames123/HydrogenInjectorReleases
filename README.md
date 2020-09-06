@@ -6,4 +6,10 @@
 
 - 0.9 Removed all Atom References. Replaced them with Hydrogen. Changed defult colors and font.
 
+# Links
+
+- Website: https://hydrogenclient.ml/
+
+- Beta Site: https://beta.hydrogenclient.ml/
+
 > Any Issues DM me on Discord: IAJ#7648
